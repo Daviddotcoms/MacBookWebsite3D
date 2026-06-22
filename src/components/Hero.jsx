@@ -1,10 +1,4 @@
-import React from "react";
-import { useEffect } from "react";
-import { useRef } from "react";
-
 const Hero = () => {
-  const videoRef = useRef(null);
-
   return (
     <section id="hero">
       <div>
